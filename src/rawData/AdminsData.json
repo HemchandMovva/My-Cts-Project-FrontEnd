@@ -1,0 +1,290 @@
+[
+	{
+		"admin_id" : "ADMIN-AN",
+		"admin_email" : "andaman@gmail.com",
+		"admin_name" : "Andaman admin name",
+		"admin_password" : "andamaN@0r4",
+		"admin_phone" : "9878989890",
+		"state_id" : "AN"
+	},
+	{
+		"admin_id" : "ADMIN-AP",
+		"admin_email" : "andhra@mail.com",
+		"admin_name" : "Andhra Admin name",
+		"admin_password" : "andhrA@0r4",
+		"admin_phone" : "8989890909",
+		"state_id" : "AP"
+	},
+	{
+		"admin_id" : "ADMIN-AR",
+		"admin_email" : "arunachal@gmail.com",
+		"admin_name" : "Arunachal admin name",
+		"admin_password" : "arunachaL@0r4",
+		"admin_phone" : "9878989891",
+		"state_id" : "AR"
+	},
+	{
+		"admin_id" : "ADMIN-AS",
+		"admin_email" : "assam@gmail.com",
+		"admin_name" : "Assam admin name",
+		"admin_password" : "assaM@0r4",
+		"admin_phone" : "9878989892",
+		"state_id" : "AS"
+	},
+	{
+		"admin_id" : "ADMIN-BR",
+		"admin_email" : "bihar@gmail.com",
+		"admin_name" : "Bihar admin name",
+		"admin_password" : "bihaR@0r4",
+		"admin_phone" : "9878989893",
+		"state_id" : "BR"
+	},
+	{
+		"admin_id" : "ADMIN-CG",
+		"admin_email" : "chhattisgarh@gmail.com",
+		"admin_name" : "Chhattisgarh admin name",
+		"admin_password" : "chhattisgarH@0r4",
+		"admin_phone" : "9878989894",
+		"state_id" : "CG"
+	},
+	{
+		"admin_id" : "ADMIN-CH",
+		"admin_email" : "chandigarh@gmail.com",
+		"admin_name" : "Chandigarh admin name",
+		"admin_password" : "chandigarH@0r4",
+		"admin_phone" : "9878989861",
+		"state_id" : "CH"
+	},
+	{
+		"admin_id" : "ADMIN-DH",
+		"admin_email" : "dadra@gmail.com",
+		"admin_name" : "Dadra admin name",
+		"admin_password" : "dadrA@0r4",
+		"admin_phone" : "9878989895",
+		"state_id" : "DH"
+	},
+	{
+		"admin_id" : "ADMIN-DL",
+		"admin_email" : "delhi@gmail.com",
+		"admin_name" : "Delhi admin name",
+		"admin_password" : "delhI@0r4",
+		"admin_phone" : "9878989862",
+		"state_id" : "DL"
+	},
+	{
+		"admin_id" : "ADMIN-GA",
+		"admin_email" : "goa@gmail.com",
+		"admin_name" : "Goa admin name",
+		"admin_password" : "goA@0r44",
+		"admin_phone" : "9878989896",
+		"state_id" : "GA"
+	},
+	{
+		"admin_id" : "ADMIN-GJ",
+		"admin_email" : "gujarat@gmail.com",
+		"admin_name" : "Gujarat admin name",
+		"admin_password" : "gujaraT@0r4",
+		"admin_phone" : "9878989897",
+		"state_id" : "GJ"
+	},
+	{
+		"admin_id" : "ADMIN-HP",
+		"admin_email" : "himachal@gmail.com",
+		"admin_name" : "Himachal admin name",
+		"admin_password" : "himachaL@0r4",
+		"admin_phone" : "9878989899",
+		"state_id" : "HP"
+	},
+	{
+		"admin_id" : "ADMIN-HR",
+		"admin_email" : "haryana@gmail.com",
+		"admin_name" : "Haryana admin name",
+		"admin_password" : "haryanA@0r4",
+		"admin_phone" : "9878989898",
+		"state_id" : "HR"
+	},
+	{
+		"admin_id" : "ADMIN-JH",
+		"admin_email" : "jharkand@gmail.com",
+		"admin_name" : "Jharkhand admin name",
+		"admin_password" : "jharkanD@0r4",
+		"admin_phone" : "9878989890",
+		"state_id" : "JH"
+	},
+	{
+		"admin_id" : "ADMIN-JK",
+		"admin_email" : "jammu@gmail.com",
+		"admin_name" : "Jammu admin name",
+		"admin_password" : "jammU@0r4",
+		"admin_phone" : "9878989863",
+		"state_id" : "JK"
+	},
+	{
+		"admin_id" : "ADMIN-KA",
+		"admin_email" : "karnataka@gmail.com",
+		"admin_name" : "Karnataka admin name",
+		"admin_password" : "karnatakA@0r4",
+		"admin_phone" : "9878989880",
+		"state_id" : "KA"
+	},
+	{
+		"admin_id" : "ADMIN-KL",
+		"admin_email" : "kerala@gmail.com",
+		"admin_name" : "Kerala admin name",
+		"admin_password" : "keralA@0r4",
+		"admin_phone" : "9878989881",
+		"state_id" : "KL"
+	},
+	{
+		"admin_id" : "ADMIN-LA",
+		"admin_email" : "ladakh@gmail.com",
+		"admin_name" : "Ladakh admin name",
+		"admin_password" : "ladakH@0r4",
+		"admin_phone" : "9878989882",
+		"state_id" : "LA"
+	},
+	{
+		"admin_id" : "ADMIN-LD",
+		"admin_email" : "lakshadweep@gmail.com",
+		"admin_name" : "Lakshadweep admin name",
+		"admin_password" : "lakshadweeP@0r4",
+		"admin_phone" : "9878989883",
+		"state_id" : "LD"
+	},
+	{
+		"admin_id" : "ADMIN-MH",
+		"admin_email" : "maharashtra@gmail.com",
+		"admin_name" : "Maharashtra admin name",
+		"admin_password" : "maharashtrA@0r4",
+		"admin_phone" : "9878989885",
+		"state_id" : "MH"
+	},
+	{
+		"admin_id" : "ADMIN-ML",
+		"admin_email" : "meghalaya@gmail.com",
+		"admin_name" : "Meghalaya admin name",
+		"admin_password" : "meghalayA@0r4",
+		"admin_phone" : "9878989887",
+		"state_id" : "ML"
+	},
+	{
+		"admin_id" : "ADMIN-MN",
+		"admin_email" : "manipur@gmail.com",
+		"admin_name" : "Manipur admin name",
+		"admin_password" : "manipuR@0r4",
+		"admin_phone" : "9878989886",
+		"state_id" : "MN"
+	},
+	{
+		"admin_id" : "ADMIN-MP",
+		"admin_email" : "madhyapradesh@gmail.com",
+		"admin_name" : "Madhyapradesh admin name",
+		"admin_password" : "madhyapradesH@0r4",
+		"admin_phone" : "9878989884",
+		"state_id" : "MP"
+	},
+	{
+		"admin_id" : "ADMIN-MZ",
+		"admin_email" : "mizoram@gmail.com",
+		"admin_name" : "Mizoram admin name",
+		"admin_password" : "mizoraM@0r4",
+		"admin_phone" : "9878989888",
+		"state_id" : "MZ"
+	},
+	{
+		"admin_id" : "ADMIN-NL",
+		"admin_email" : "nagaland@gmail.com",
+		"admin_name" : "Nagaland admin name",
+		"admin_password" : "nagalanD@0r4",
+		"admin_phone" : "9878989889",
+		"state_id" : "NL"
+	},
+	{
+		"admin_id" : "ADMIN-OD",
+		"admin_email" : "odisha@gmail.com",
+		"admin_name" : "Odisha admin name",
+		"admin_password" : "odishA@0r4",
+		"admin_phone" : "9878989870",
+		"state_id" : "OD"
+	},
+	{
+		"admin_id" : "ADMIN-PB",
+		"admin_email" : "punjab@gmail.com",
+		"admin_name" : "Punjab admin name",
+		"admin_password" : "punjaB@0r4",
+		"admin_phone" : "9878989872",
+		"state_id" : "PB"
+	},
+	{
+		"admin_id" : "ADMIN-PY",
+		"admin_email" : "puducherry@gmail.com",
+		"admin_name" : "Puducherry admin name",
+		"admin_password" : "puducherrY@0r4",
+		"admin_phone" : "9878989871",
+		"state_id" : "PY"
+	},
+	{
+		"admin_id" : "ADMIN-RJ",
+		"admin_email" : "rajasthan@gmail.com",
+		"admin_name" : "Rajasthan admin name",
+		"admin_password" : "rajasthaN@0r4",
+		"admin_phone" : "9878989873",
+		"state_id" : "RJ"
+	},
+	{
+		"admin_id" : "ADMIN-SK",
+		"admin_email" : "sikkim@gmail.com",
+		"admin_name" : "Sikkim admin name",
+		"admin_password" : "sikkiM@0r4",
+		"admin_phone" : "9878989874",
+		"state_id" : "SK"
+	},
+	{
+		"admin_id" : "ADMIN-TG",
+		"admin_email" : "telangana@gmail.com",
+		"admin_name" : "Telangana admin name",
+		"admin_password" : "telanganA@0r4",
+		"admin_phone" : "9878989876",
+		"state_id" : "TG"
+	},
+	{
+		"admin_id" : "ADMIN-TN",
+		"admin_email" : "tamilnadu@gmail.com",
+		"admin_name" : "Tamilnadu admin name",
+		"admin_password" : "tamilnadU@0r4",
+		"admin_phone" : "9878989875",
+		"state_id" : "TN"
+	},
+	{
+		"admin_id" : "ADMIN-TR",
+		"admin_email" : "tripura@gmail.com",
+		"admin_name" : "Tripura admin name",
+		"admin_password" : "tripurA@0r4",
+		"admin_phone" : "9878989877",
+		"state_id" : "TR"
+	},
+	{
+		"admin_id" : "ADMIN-UK",
+		"admin_email" : "uttarakhand@gmail.com",
+		"admin_name" : "Uttarakhand admin name",
+		"admin_password" : "uttarakhanD@0r4",
+		"admin_phone" : "9878989879",
+		"state_id" : "UK"
+	},
+	{
+		"admin_id" : "ADMIN-UP",
+		"admin_email" : "uttarpradesh@gmail.com",
+		"admin_name" : "Uttarpradesh admin name",
+		"admin_password" : "uttarpradesH@0r4",
+		"admin_phone" : "9878989878",
+		"state_id" : "UP"
+	},
+	{
+		"admin_id" : "ADMIN-WB",
+		"admin_email" : "westbengal@gmail.com",
+		"admin_name" : "WestBengal admin name",
+		"admin_password" : "westbengaL@0r4",
+		"admin_phone" : "9878989880",
+		"state_id" : "WB"
+	}
+]
